@@ -2,7 +2,7 @@ package helloworld;
 
 public class helloworld {
 		public static String sayHello() {
-	        return "HelloWorld";
+	        return "HelloWod";
 	    }
 
 	    public static void main(String[] args) {
